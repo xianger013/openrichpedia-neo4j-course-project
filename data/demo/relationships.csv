@@ -1,4 +1,4 @@
-source_id,target_id,type,source_file
+﻿source_id,target_id,type,source_file
 http://rich.wangmengsd.com/resource/022510,http://rich.wangmengsd.com/resource/000280,CONTAINS,contain.js
 rpp:01,rp:032000,HAS_IMAGE,pic_people.js
 wd:Q90,img-city:Q90_0,HAS_IMAGE,pic_city.js
