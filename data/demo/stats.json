@@ -1,0 +1,18 @@
+{
+  "node_count": 11,
+  "relationship_count": 6,
+  "kind_counts": {
+    "City": 1,
+    "Image": 5,
+    "Person": 2,
+    "Place": 1,
+    "Sight": 2
+  },
+  "relationship_type_counts": {
+    "CONTAINS": 1,
+    "HAS_IMAGE": 3,
+    "HAS_SIGHT": 2
+  },
+  "errors": [],
+  "warnings": []
+}

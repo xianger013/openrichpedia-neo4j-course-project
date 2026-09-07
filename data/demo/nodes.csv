@@ -1,0 +1,12 @@
+id,name,kind,source_file
+wd:Q956,Beijing,City,city.js
+http://rich.wangmengsd.com/resource/000280,000280,Image,contain.js
+http://rich.wangmengsd.com/resource/022510,022510,Image,contain.js
+img-city:Q90_0,Q90_0,Image,pic_city.js
+img-city:Q956_0,Q956_0,Image,pic_city.js
+rp:032000,rp:032000,Image,pic_people.js
+rpp:01,Abel Kirui,Person,people.js
+rpp:02,Ada Lovelace,Person,people.js
+wd:Q90,Paris,Place,city_sight.js
+rps:0286,Temple of Heaven,Sight,city.js
+rps:0290,Forbidden City,Sight,city.js
